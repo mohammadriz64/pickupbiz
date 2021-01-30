@@ -29,9 +29,15 @@
 
 }
 .image{
-  margin-top: 5%;
-  width: 100%;
-  height: auto;
+  display: inline-block;
+  margin: 20px;
+  padding: 10px;
+  margin-top: 3%;
+  width: 500px;
+  height: 400px;
+  border-style: double;
+  border-color: yellowgreen;
+  border-radius: 20px;
 }
 .toph{
   border: 2px solid black;
